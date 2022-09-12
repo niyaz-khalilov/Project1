@@ -1,0 +1,3 @@
+# Project exclude paths
+/target/
+*.propertiesgit pull origin branch-name
